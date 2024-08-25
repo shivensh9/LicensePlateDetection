@@ -1,4 +1,2 @@
 Yolo Automartic license plate dtection model.
-
-
-# How to utilise this. 
+To see a live demo of this app, in command line type=> streamlit run yolo_applicaiton.py
